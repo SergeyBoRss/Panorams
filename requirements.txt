@@ -1,0 +1,11 @@
+torch==2.2.2
+numpy==1.26.4
+Pillow==9.5.0
+opencv-python==4.9.0.80
+transformers==4.39.3
+tokenizers==0.15.2
+accelerate==0.29.3
+huggingface-hub==0.25.2
+safetensors==0.8.0
+peft==0.10.0
+diffusers @ git+https://github.com/TencentARC/BrushNet.git@0f9d9e54ca85c40a11a8f0504b4b5b2e7e8fd14d
